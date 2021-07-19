@@ -1,0 +1,18 @@
+{
+  "name": "webtorrent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bittorrent-dht": "^10.0.0",
+    "bittorrent-dht-sodium": "^1.2.0",
+    "magnet-uri": "^6.2.0",
+    "webtorrent-hybrid": "^4.1.0"
+  }
+}
